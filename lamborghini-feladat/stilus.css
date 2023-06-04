@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url('./images/bg.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    opacity: 0.9;
+}
+
+.nav-item img {
+    width: 2em;
+}
+
+h1 {
+}
+
+.tort {
+    color: white;
+    font-size: 1em;
+    padding: 1em;
+}
+
+.blokk p {
+}
+
+th,
+td {
+    border-bottom: 1px solid white;
+    padding: 1em;
+}
+
+#kepek {
+}
+
+#fel {
+    position: fixed;
+    color: white;
+}
+
+a {
+}
